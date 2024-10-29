@@ -1,4 +1,4 @@
-## Homework Questions
+## Homework 5 Questions
 
 > Note: sometimes your answer doesn't match one of the options exactly. 
 > That's fine. 
@@ -188,7 +188,7 @@ What's the probability that this client will get a subscription now?
 
 
 
-# Homework 5
+# Homework 5 Solutions
 
 [DataTalksClub/machine-learning-zoomcamp/cohorts/2024/05-deployment/homework.md](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/05-deployment/homework.md)
 
