@@ -1,0 +1,33 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# Web Framework
+flask = "*" 
+gunicorn = "21.2"
+#
+# Machine Learning Libraries
+scikit-learn = "1.3"   
+xgboost = "2.0"  
+#
+# Scientific Computing
+numpy = "1.23.5"  
+pandas = "2.0.3"  
+scipy = "1.11.1"  
+#
+# Data Visualization
+matplotlib = "3.7.1"  
+seaborn = "0.13"  
+#
+# Geospatial
+geopy = "2.4.1"  
+geopandas = "0.14.1"  
+#
+# Others
+Cython = "*"  
+ipykernel = "*"
+
+[requires]
+python_version = "3.9"
