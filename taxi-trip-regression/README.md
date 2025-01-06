@@ -7,7 +7,7 @@
    - [Web Service](#web-service)
 
 
-# **Project: Taxi Trip Duration in NYC**
+# **Project: Taxi Trip Duration in the NYC**
 
 <center><img src = "reports/figures/taxi-trip-nyc.png" width="970" height="270"/></center>
 
